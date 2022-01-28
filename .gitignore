@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# VS
+.vs
+/bGEC/.vs
+
 # Distribution / packaging
 .Python
 build/
@@ -128,4 +132,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+bGEC/.vs/bGEC/v16/.suo
+bGEC/.vs/bGEC/v16/.suo
 bGEC/.vs/bGEC/v16/.suo
