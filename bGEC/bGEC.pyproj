@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>24db09e7-2bee-45f2-91c7-c34a22b6febe</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>bGEC.py</StartupFile>
+    <StartupFile>subword_tokenizer\subword_tokenizer.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
