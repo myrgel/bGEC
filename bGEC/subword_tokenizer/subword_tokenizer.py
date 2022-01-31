@@ -25,3 +25,5 @@ train_examples, val_examples = examples['train'], examples['validation']
 for pt, en in train_examples.take(1):
   print("Portuguese: ", pt.numpy().decode('utf-8'))
   print("English:   ", en.numpy().decode('utf-8'))
+
+print("LX Test")
